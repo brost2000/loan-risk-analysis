@@ -1,12 +1,31 @@
-# Loan Risk Analysis Project
+# Credit Risk Analysis for Extending Bank Loans
 
-This project explores a synthetic loan dataset to examine borrower characteristics and how they relate to default risk. I use basic Python tools to clean the data, visualize trends, and draw conclusions relevant to credit analysis.
+## 📌 Objective
+[UNDER CONSTRUCTION]
 
-## Tools Used
-- Python (Pandas, NumPy, Seaborn)
-- Jupyter Notebook
+## 📂 Dataset
+**Dataset Source:** [Kaggle - Loan-Dataset](https://www.kaggle.com/datasets/prakashraushan/loan-dataset/data)
 
-## Key Insights
-- Default rates are higher for lower-income brackets.
-- Medical and personal loans showed the highest default ratios.
-- Interest rates tended to increase with loan amount and credit grade.
+### 📊 Features:
+- **Age**: 
+
+## 📖 Theory
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+
+## 🛠️ Implementation Steps
+
+## 📊 Model Evaluation
+
+## 📌 Example Usage
+
+## 📜 Conclusion
+
+## 🔗 Dependencies
+
+## 📢 Acknowledgments
+- Dataset sourced from [Kaggle - Loan-Dataset](https://www.kaggle.com/datasets/prakashraushan/loan-dataset/data).
+
+## 🤝 Contributions
+
